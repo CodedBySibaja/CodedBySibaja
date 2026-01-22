@@ -23,8 +23,6 @@
 ## 📊 Estadísticas y logros
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodedBySibaja&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodedBySibaja&theme=radical)
-![Trophies](https://github-profile-trophy.vercel.app/?username=CodedBySibaja&theme=radical&margin-w=15)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodedBySibaja&theme=react-dark" alt="Commit Graph" />
