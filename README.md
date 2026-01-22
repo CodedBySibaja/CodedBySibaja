@@ -1,6 +1,6 @@
-# 🚀 [TU_USUARIO]
+# 🚀 CodedBySibaja
 
-👨‍💻 Desarrollador apasionado por la creación de soluciones innovadoras en software, con experiencia en múltiples lenguajes y tecnologías. Me interesa el desarrollo backend, frontend y la integración de herramientas modernas para proyectos escalables.
+👨‍💻 Desarrollador apasionado por la creación de soluciones innovadoras en software, con experiencia en múltiples lenguajes y tecnologías. Me interesa por sobre todo lo demás, el desarrollo en backend y la integración de herramientas modernas para proyectos escalables.
 
 ---
 
@@ -12,6 +12,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Laravel](https://img.shields.io/badge/:badgeContent?logo=Laravel&logoColor=red)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodedBySibaja&layout=compact&theme=radical" alt="Top Languages" />
