@@ -14,16 +14,16 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodedBySibaja&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ## 📊 Estadísticas y logros
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[TU_USUARIO]&theme=radical)
-![Trophies](https://github-profile-trophy.vercel.app/?username=[TU_USUARIO]&theme=radical&margin-w=15)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[CodedBySibaja]&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[CodedBySibaja]&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=[CodedBySibaja]&theme=radical&margin-w=15)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=[TU_USUARIO]&theme=react-dark" alt="Commit Graph" />
