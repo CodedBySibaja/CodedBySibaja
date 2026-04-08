@@ -14,36 +14,6 @@
 ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodedBySibaja&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 📊 Estadísticas y logros
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodedBySibaja&show_icons=true&theme=radical)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodedBySibaja&theme=react-dark" alt="Commit Graph" />
-</p>
-
----
-
-📫 Encuéntrame en:
-- 💼 [LinkedIn](https://linkedin.com/in/kendallsys)
-
-![Profile Views](https://komarev.com/ghpvc/?username=CodedBySibaja&style=for-the-badge)
-
----
-
-## 🤝 Conecta conmigo
-
-💬 ¿Quieres colaborar en proyectos interesantes o compartir ideas? ¡Contáctame!  
-<p align="center">
-  <a href="https://linkedin.com/in/kendallsys"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
 ---
 
 📅 *Última actualización: Enero 2026*
