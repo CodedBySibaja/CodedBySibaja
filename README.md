@@ -1,20 +1,35 @@
-# 🚀 CodedBySibaja
 
-👨‍💻 Desarrollador apasionado por la creación de soluciones innovadoras en software, con experiencia en múltiples lenguajes y tecnologías. Me interesa por sobre todo lo demás, el desarrollo en backend y la integración de herramientas modernas para proyectos escalables.
+![Banner](./assets/header-banner.png)
 
----
+## [![Typing SVG](https://typingsvg.vercel.app/api/svg?height=44&backgroundOpacity=0&center=false&vCenter=false&border=false&lines=%5B%7B%22text%22%3A%22Kendall+Salazar+S.%22%2C%22font%22%3A%22Jersey+20%22%2C%22color%22%3A%22%2327a7dd%22%2C%22fontSize%22%3A40%2C%22typingSpeed%22%3A0.1111111111111111%2C%22deleteSpeed%22%3A0.125%2C%22lineHeight%22%3A1.1%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
-## 🧑‍💻 Lenguajes dominados
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+A junior software engineer who is constantly evolving and looking for opportunities to continue learning and improving over time. I’m open to any kind of tech job or project, so if you’d like to collaborate, just reach out to me. I’m a quick learner; I’m familiar with APIs, frameworks, and cloud services, and if there’s something I don’t know, I research it and put it into practice. Oh, right! I’ve started jumping on the AI bandwagon, so I’m also working on MCP topics, AI integrations, and things like that.
 
----
+![](https://capsule-render.vercel.app/api?type=rect&color=0:27a7dd,100:00E5FF&height=3&section=header)
 
-📅 *Última actualización: Septiembre 2026*
+## Stack / Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,java,cs,py,php,django,laravel,vue,mysql,postgresql,express,npm,nodejs,github,git,jenkins,vscode,powershell,dotnet&perline=10)](https://skillicons.dev)
+
+![](https://capsule-render.vercel.app/api?type=rect&color=0:27a7dd,100:00E5FF&height=3&section=header)
+
+## Projects
+
+- [x] First repo of user created
+- [ ] Project 1 — [Create my professional website to offer my services and get visibility]
+- [ ] Project 2 — [Not yet]
+
+[Look at my entire roadmap in GitHub Projects →](https://github.com/users/CodedBySibaja/projects/1)
+
+![](https://capsule-render.vercel.app/api?type=rect&color=0:27a7dd,100:00E5FF&height=3&section=header)
+
+## Contact me
+
+<kbd>Email</kbd> = <kbd>Kendallsalazarsi.04@hotmail.com</kbd>
+<br>
+<kbd>LinkedIn</kbd> = <kbd>kendallsys</kbd>
+
+
+📅 *Last update: September 2026*
 
